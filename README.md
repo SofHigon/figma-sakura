@@ -40,6 +40,6 @@ README.md            → Archivo con la descripción y vista previa del proyecto
 
 **Edna Sofía Higón Pino**  
 Diseñadora del proyecto  
-Licencia: MIT (o la que prefieras)
+
 
 ---
